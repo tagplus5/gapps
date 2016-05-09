@@ -1,2 +1,2 @@
 # gapps
-Various Google Apps Scipts
+Various Google Apps Scripts
